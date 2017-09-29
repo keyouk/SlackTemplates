@@ -32,8 +32,10 @@ If you are making a small Slack Application from scratch, you should be able to 
 
 #Table of Contents
 > <sub>1. Authentication
-<sub>2. Creating Slash Commands
-<sub>3. Creating Real-Time Bots
+
+> <sub>2. Creating Slash Commands
+
+> <sub>3. Creating Real-Time Bots
 
 
 # Authentication
